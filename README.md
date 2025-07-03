@@ -48,24 +48,28 @@ We’re building the new standard in *transparent, outcome-focused automation.*
 
 ## 🧰 Featured Productized Tools
 
-- **Tab Organizer (Chrome Extension):** Save and restore all your Chrome tabs with one click. [Demo & Download](#)
-- **Advanced PDF Pro Pack:** All-in-one PDF toolkit for creators and founders. [Learn More](#)
+- **Tab Organizer (Chrome Extension):** Save and restore all your Chrome tabs with one click. [Demo & Download](https://tab-organizer.super.site/)
+- **Advanced PDF Pro Pack:** All-in-one PDF toolkit for creators and founders. [Learn More](https://ajar-shroud-457.notion.site/PDF-Power-Pack-21d5b9d8debe80db8247ea1142f7d798?source=copy_link)
 - **Inbox AI Opt-In:** Smart form routing for agencies and creators.
 
 ---
 
-## Public Docs & Core Assets
+## 📚 Resource Docs & User Guides
 
-- [AI Risk SOP (Public)](link-to-public-doc)
-- [Case Study Decks](link-to-canva-or-slides)
-- [Client Feedback Forms](link-to-tally-or-airtable)
-- [Weekly Review Template](link-to-doc)
-- [Brand At-A-Glance](link-to-brand-kit)
-- [SOP Library](link-to-notion-or-doc-folder)
-- [Airtable/Notion Template Gallery](link-to-template)
-- [Incident Response SOP](link-to-doc)
-- [Client Onboarding/Offboarding SOPs](link-to-doc)
-
+- [PDF Power Pack Guide](https://ajar-shroud-457.notion.site/PDF-Power-Pack-21d5b9d8debe80db8247ea1142f7d798?source=copy_link)
+- [Tab Organizer User Guide](#)
+- [Inbox AI Opt-In Setup](https://ajar-shroud-457.notion.site/DIY-GTM-Kit-Beta-2165b9d8debe807c908ad37de880d960?source=copy_link)
+- [Chrome Extension FAQ & Troubleshooting](#)
+- [Automation Playbook (Airtable/Notion Templates)](#)
+- [Red Team Prompt Log: Test Cases](#)
+- [Client Onboarding/Offboarding Checklist](#)
+- [Security & Data Access SOP](#)
+- [Incident Response Flow](#)
+- [ROI Calculator](#coming soon)
+- [Case Studies & Wins](https://ajar-shroud-457.notion.site/Case-Studies-Wins-Gallery-2255b9d8debe80daa1caf232863536c7?source=copy_link)
+- [Weekly/Monthly Changelog Archive](#)
+- [Feature Request & Feedback Form](#)
+  
 > *Want to use or adapt any of these? Open an issue or fork the template!*
 
 ---
