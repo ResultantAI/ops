@@ -1,0 +1,24 @@
+# Contributing to ResultantAI
+
+We welcome pull requests, ideas, and issue reports!
+
+## Getting Started
+
+- Fork this repo and clone locally
+- Create a branch for your feature/fix
+- Follow our AI Risk SOP (see /docs)
+- Submit a clear, descriptive PR
+
+## Risk & Security
+
+- Every workflow or automation must include a risk review
+- No sensitive client data in PRs
+
+## Code of Conduct
+
+- Be professional and helpful
+- No spam or self-promotion
+- Don't be an a**hole
+
+**Need help?**  
+Open an issue or contact [hello@resultantai.com](mailto:hello@resultantai.com)
